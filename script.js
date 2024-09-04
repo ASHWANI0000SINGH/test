@@ -1,2 +1,2 @@
-const c = 25;
-console.log("age", c);
+const age = 45;
+console.log("age", age);
