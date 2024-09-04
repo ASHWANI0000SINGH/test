@@ -1,3 +1,3 @@
-const weight = 27;
+const weight = 75;
 
 console.log("age", age);
